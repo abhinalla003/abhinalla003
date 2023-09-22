@@ -4,7 +4,7 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinalla003&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Nalla" /> </p>
 
-<p align="left"> <a href="https://twitter.com/PrinceBeladiya7" target="blank"><img src="https://img.shields.io/twitter/follow/PrinceBeladiya7?logo=twitter&style=for-the-badge" alt="PrinceBeladiya7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AbhiNalla003" target="blank"><img src="https://img.shields.io/twitter/follow/AbhiNalla003?logo=twitter&style=for-the-badge" alt="AbhiNalla003" /></a> </p>
 
 - 🔭 I’m currently working on **Laravel, PHP, ASP.net**
 
