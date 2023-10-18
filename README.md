@@ -10,7 +10,7 @@
 
 - Currently, pursuing a B.Tech in Computer Engineering.
 
-- Lead @Google DSC
+- Lead @Google DSC BVM
   
 - 🔭 I’m currently working on **Laravel, PHP, ASP.net**
 
