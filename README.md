@@ -6,6 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/AbhiNalla003" target="blank"><img src="https://img.shields.io/twitter/follow/AbhiNalla003?logo=twitter&style=for-the-badge" alt="AbhiNalla003" /></a> </p>
 
+- I completed a Diploma in Information Technology.
+
+- Currently, pursuing a B.Tech in Computer Engineering.
+
+- Lead @Google DSC
+  
 - 🔭 I’m currently working on **Laravel, PHP, ASP.net**
 
 - 🌱 I’m currently learning **Salesforce**
