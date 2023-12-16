@@ -14,7 +14,7 @@
   
 - 🔭 I’m currently working on **Laravel, PHP, ASP.net**
 
-- 🌱 I’m currently learning **Salesforce**
+- 🌱 I’m currently learning **Salesforce, Cybersecurity by Google**
 
 - 💬 Ask me about **PHP**
 
